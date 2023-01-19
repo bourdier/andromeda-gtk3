@@ -1,9 +1,8 @@
 # andromeda-gtk3
   Andromeda theme for libadwaita
-  and adw-gtk3 - https://github.com/lassekongo83/adw-gtk3
+  and [adw-gtk3](https://github.com/lassekongo83/adw-gtk3)
 
-  Colors from Andromeda's VS Code Theme
-  (https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda)
+  Colors from [Andromeda's VS Code theme](https://github.com/EliverLara/Andromeda)
 
 ## Install
 ### Manual
