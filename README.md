@@ -13,5 +13,6 @@
   5. Close and re-open any open apps or log out and in again
 
 ### Automatic
-  1. Launch `sh install.sh`
-  2. Reboot
+  1. Open folder
+  2. Open terminal and type `sh install.sh`
+  3. Reboot
